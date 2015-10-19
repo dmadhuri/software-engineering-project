@@ -1,0 +1,9 @@
+C:\Users\sandeep\Desktop\SEProject\SEProject\bin\Debug\SEProject.exe.config
+C:\Users\sandeep\Desktop\SEProject\SEProject\bin\Debug\SEProject.exe
+C:\Users\sandeep\Desktop\SEProject\SEProject\bin\Debug\SEProject.pdb
+C:\Users\sandeep\Desktop\SEProject\SEProject\obj\Debug\SEProject.csprojResolveAssemblyReference.cache
+C:\Users\sandeep\Desktop\SEProject\SEProject\obj\Debug\SEProject.Properties.Resources.resources
+C:\Users\sandeep\Desktop\SEProject\SEProject\obj\Debug\SEProject.csproj.GenerateResource.Cache
+C:\Users\sandeep\Desktop\SEProject\SEProject\obj\Debug\SEProject.exe
+C:\Users\sandeep\Desktop\SEProject\SEProject\obj\Debug\SEProject.pdb
+C:\Users\sandeep\Desktop\SEProject\SEProject\obj\Debug\SEProject.MainForm.resources
